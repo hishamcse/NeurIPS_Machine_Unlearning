@@ -34,7 +34,7 @@
    * [Competition Winner](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/discussion/458721)
    * [Reproduced 1st Place](https://www.kaggle.com/code/syedjarullahhisham/neurips-machine-unlearning-improved-scl?scriptVersionId=158595208)
    * [Approach 1 : Improved 1st Place](https://www.kaggle.com/code/syedjarullahhisham/neurips-machine-unlearning-improved-scl?scriptVersionId=163792309)
-   * [Approach 2 : Gradient Ascent:](https://www.kaggle.com/code/abdurrafi08236/neurips-machine-unlearning-gradient-ascent?scriptVersionId=164117975)
+   * [Approach 2 : Gradient Ascent](https://www.kaggle.com/code/abdurrafi08236/neurips-machine-unlearning-gradient-ascent?scriptVersionId=164117975)
 
 ## Presentation<a name="present"></a>
    * [Project Proposal](https://github.com/hishamcse/NeurIPS_Machine_Unlearning/tree/main/Project%20Proposal)
