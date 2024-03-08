@@ -10,8 +10,7 @@
    * [Contributors](#cont)
 
 ## Overview<a name="overview"></a>
-   CSE 472 Machine Learning term project <b>NeurIPS: Machine Unlearning</b> By <b>Syed Jarullah Hisham (1805004)</b> & <b>Abdur Rafi (1805008)</b><br />
-   It was a competition hosted on Kaggle organized by Google researchers.
+   CSE 472 Machine Learning term project <b>NeurIPS: Machine Unlearning</b> By <b>Syed Jarullah Hisham (1805004)</b> & <b>Abdur Rafi (1805008)</b>. It was a competition hosted on Kaggle organized by Google. researchers.
 
 ## Project Introduction<a name="intro"></a>
    With rapid growth of AI, more and more rules and regulations are being introduced concerning user privacy and security. These rules and regulations grant users with the right to be forgotten, 
