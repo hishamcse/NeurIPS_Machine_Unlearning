@@ -22,7 +22,9 @@
 ## Problem Definition<a name="def"></a>
    We are given a bi-partition of the training set, where one is called the retain set and other is called the forget set. We are also given a trained model. 
    We have to modify the trained model in such way that the model, ideally, becomes identical to one that was trained only on the retain set. An image from the organizers pictorially describe this problem
+   <p align='center'>
    ![image](https://github.com/hishamcse/NeurIPS_Machine_Unlearning/assets/60782190/bbbb9a57-56cb-4d22-9d86-226a4aab9e71)
+   </p>
 
 ## Competition<a name="comp"></a>
    * [NeurIPS-Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)
