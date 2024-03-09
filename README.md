@@ -15,7 +15,7 @@
 ## Project Introduction<a name="intro"></a>
    With rapid growth of AI, more and more rules and regulations are being introduced concerning user privacy and security. These rules and regulations grant users with the right to be forgotten, 
    leading to a new type of request - to delete information. Unfortunately, removing from the training dataset does not guarantee complete removal of the information of a user. Membership inference attack,
-   model inversion attack can reveal information about specific contents of a training dataset from the trained model \cite{xu2023machine}. Consequently, removing the influence of some data from the trained 
+   model inversion attack can reveal information about specific contents of a training dataset from the trained model. Consequently, removing the influence of some data from the trained 
    model, both completely and quickly has become a region of interest. The NeurIPS: Machine Unlearning competition, held in Kaggle, asks the competitors to perform this task. 
 
 ## Problem Definition<a name="def"></a>
